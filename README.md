@@ -1,6 +1,6 @@
-# Generative AI Research Project - Boon or Bane?
+# Generative AI Research Project
 
-This repository contains all data, scripts, and documents for the research project "Using Generative AI Tools - Boon or Bane?".
+This repository contains all data, scripts, and documents for the research project "Generative AI".
 
 ## Project Structure
 
@@ -10,10 +10,7 @@ The repository is organized as follows:
 Generative_AI_Research_SID/
 ├── literature_review/       # Journal articles, conference papers, books
 ├── data_analysis
-│   ├──quantitative_analysis/   # Survey data, analysis scripts (Python), reports
-│   │  ├── data/                   # Raw and cleaned data (CSV, Excel)
-│   │  ├── scripts/                # Python scripts for analysis
-│   │  └── reports/                # Outputs and findings from quantitative data
+│   ├── quantitative_analysis/   # Survey data, analysis scripts (Python), reports
 │   └── qualitative_analysis/    # Interview transcripts, protocols, consent forms
 ├── reports/      # Proposal, paper, and report drafts
 ├── additional_materials/    # Information sheets, photos, and media
