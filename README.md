@@ -9,10 +9,13 @@ The repository is organized as follows:
 ```
 Generative_AI_Research_SID/
 ├── literature_review/       # Journal articles, conference papers, books
-├── data_analysis
+├── data_analysis       # whole data analysis document
 │   ├── quantitative_analysis/   # Survey data, analysis scripts (Python), reports
 │   └── qualitative_analysis/    # Interview transcripts, protocols, consent forms
-├── reports/      # Proposal, paper, and report drafts
+├── reports/      # the whole reports document
+│   ├── proposal/   # The project proposal
+|   ├── final_report.md   # finial report
+│   └── history/    # The history draft 
 ├── additional_materials/    # Information sheets, photos, and media
 └── README.md                   # This file
 ```
